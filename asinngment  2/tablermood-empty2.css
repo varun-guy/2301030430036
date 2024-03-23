@@ -1,0 +1,20 @@
+.divider-icon {
+  height: 110px;
+  width: 136px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: -202px;
+  left: -824px;
+  z-index: 1;
+}
+.tablermood-empty2 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  letter-spacing: normal;
+}
